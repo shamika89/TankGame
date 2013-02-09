@@ -1,0 +1,16 @@
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\cell.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\TestTank.exe
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\TestTank.pdb
+E:\visuai studio projects\TestTank\TestTank\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\visuai studio projects\TestTank\TestTank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\visuai studio projects\TestTank\TestTank\obj\x86\Debug\TestTank.exe
+E:\visuai studio projects\TestTank\TestTank\obj\x86\Debug\TestTank.pdb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\background.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\cell3.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\stone-wall.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\tank.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\water.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\brick.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\coin-pile.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\life-pack.xnb
+E:\visuai studio projects\TestTank\TestTank\bin\x86\Debug\Content\me.xnb

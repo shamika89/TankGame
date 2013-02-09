@@ -1,0 +1,7 @@
+Content\cell.xnb
+Content\background.xnb
+Content\brick.xnb
+Content\coin-pile.xnb
+Content\life-pack.xnb
+Content\stone-wall.xnb
+Content\water.xnb
